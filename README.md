@@ -1,16 +1,14 @@
 
- ### Hi, I'm André Sousa, graduated in Analysis and Systems Development.
-  #### Currently I work as a Support Analyst.
-  #### I'm studying DevOps culture.
+ ### Hi, I'm André Sousa!
 
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/ardssj">
-  <img height="150em" width="600em" src="https://github-readme-stats.vercel.app/api?username=ardssj&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="126em" width="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardssj&layout=compact&theme=github_dark"/>
+  <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=ardssj&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardssj&layout=compact&theme=github_dark"/>
 </div>
   
-  <div align="center"><br>
+  <div align="left"><br>
   <img align="center" alt="Andre-Docker" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="Andre-K8S" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
   <img align="center" alt="Andre-SQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
